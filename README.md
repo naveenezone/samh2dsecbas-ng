@@ -1,2 +1,2 @@
 # samh2dsecbas-ng
-Project:samh2dsecbas for angular frontend
+Project:samh2dsecbas for angular frontend.
